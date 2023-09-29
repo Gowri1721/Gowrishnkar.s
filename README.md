@@ -1,2 +1,2 @@
-# Gowrishnkar.s
+# Gowrishankar.s
 smart water management
